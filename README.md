@@ -1,2 +1,26 @@
-# Getaway-2-port
-Reckless Getaway 2 is a fast-paced, action-packed mobile racing and arcade game developed by Pixelbite. The core objective is to outrun the police and survive as long as possible while causing maximum chaos on the road. and be port by OnyxSoul
+echo '# ⛧ OnyxSoul — Reckless Getaway 2 Port
+
+## This is the OnyxSoul port of Reckless Getaway 2
+
+### Files Included
+- The extracted APK files
+- Game assets (.bar files)
+- Native libraries (libgame.so)
+
+### How to Use
+1. Download the files
+2. Install the APK on your Chromebook
+3. Play offline
+
+### Port Details
+- Original game: Reckless Getaway 2 (Android)
+- Ported by: OnyxSoul Team
+- Format: Android APK (split)
+
+### Note
+The .bar files are proprietary Pixelbite format.
+They are included for reference.
+
+---
+⛧ OnyxSoul Port — Reckless Getaway 2 and is kind of not done :}
+' > OnyxSoul_Port/README.md

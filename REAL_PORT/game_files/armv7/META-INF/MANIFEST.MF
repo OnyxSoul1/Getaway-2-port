@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: Uv9sapTgykxyz0xRjdB8IBZFDF0=
+
+Name: lib/armeabi-v7a/libapminsighta.so
+SHA1-Digest: PohZcYrbXHRN5uEB9ubQn1HNsZQ=
+
+Name: lib/armeabi-v7a/libapminsightb.so
+SHA1-Digest: Ct5xsjxeaG8YZ2HbqAvpN/TMK60=
+
+Name: lib/armeabi-v7a/libapplovin-native-crash-reporter.so
+SHA1-Digest: LL+TMEMy6rtDKvjfjUgzCRoHFNU=
+
+Name: lib/armeabi-v7a/libbuffer_pgl.so
+SHA1-Digest: I8rvbT2xNXT1nAM/ExB81SPyAu4=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: +7MlcRAw6Rdblv/wsB9VVxbT66A=
+
+Name: lib/armeabi-v7a/libcrashlytics-common.so
+SHA1-Digest: hXlLfLF50KUYFywyZ+0xKJUvgiw=
+
+Name: lib/armeabi-v7a/libcrashlytics-handler.so
+SHA1-Digest: r2y5hz1Z/6ycIrzJXC3T/anxFYU=
+
+Name: lib/armeabi-v7a/libcrashlytics-trampoline.so
+SHA1-Digest: +7LgpD7HZyF5x4MubXclNbD29qo=
+
+Name: lib/armeabi-v7a/libcrashlytics.so
+SHA1-Digest: GxiT+5RdIPa5ZYEyXkDv3+qU2DY=
+
+Name: lib/armeabi-v7a/libdatastore_shared_counter.so
+SHA1-Digest: ymBLMtL1xUks4lwkJYVBCLkN3nY=
+
+Name: lib/armeabi-v7a/libfile_lock_pgl.so
+SHA1-Digest: 53S18PLaXEKmM056LPKUSyfboag=
+
+Name: lib/armeabi-v7a/libgame.so
+SHA1-Digest: QJpULpISqfvOL7fX5i3mY2ZbwnM=
+
+Name: lib/armeabi-v7a/libmcgoliath.so
+SHA1-Digest: 8vc6g1ZI9NKFuJ8yiBBSKdJN0h8=
+
+Name: lib/armeabi-v7a/libmcgoliathevents.so
+SHA1-Digest: ZzbionrA49dnLf4tj6nFftu8p50=
+
+Name: lib/armeabi-v7a/libmcprime.so
+SHA1-Digest: 9+JlqKkCySgkEOvOfzC7MZvz58A=
+
+Name: lib/armeabi-v7a/libnms.so
+SHA1-Digest: oynnqRP21BkQb9gqg/84PFVFHVA=
+
+Name: lib/armeabi-v7a/libpairipcore.so
+SHA1-Digest: CGxMVFcA1F1XsJtGiaekoJ5L5TE=
+
+Name: lib/armeabi-v7a/libpglarmor.so
+SHA1-Digest: B1qozwHIJoo6Kr7JPgJZ1sSRTfQ=
+
+Name: lib/armeabi-v7a/libquack.so
+SHA1-Digest: PDiZJzI8s2RZJpzIDYEhVdJ8xT8=
+
+Name: lib/armeabi-v7a/libtobEmbedPagEncrypt.so
+SHA1-Digest: TSoBfAGorYfwaOET1d8D2iAn/IA=
+
+Name: lib/armeabi-v7a/libtt_ugen_layout.so
+SHA1-Digest: ywtJpS+uowcKFbLq7eCJ63uszRU=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

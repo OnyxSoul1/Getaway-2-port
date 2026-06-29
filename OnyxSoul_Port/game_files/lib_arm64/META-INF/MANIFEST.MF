@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: FBwNn+Mk6Fd4XJmJDHg3+/rtPZE=
+
+Name: lib/arm64-v8a/libapminsighta.so
+SHA1-Digest: Gyn2scvjiVR8eJLCd4w5ubOMMDk=
+
+Name: lib/arm64-v8a/libapminsightb.so
+SHA1-Digest: gRCG8XnFDUCCHizlhz1tHJVm978=
+
+Name: lib/arm64-v8a/libapplovin-native-crash-reporter.so
+SHA1-Digest: qmJbO8GdFOYTgw5Prbg1Mcj8a2M=
+
+Name: lib/arm64-v8a/libbuffer_pgl.so
+SHA1-Digest: o/v79+leONpdRWmXYinBjHFvOvQ=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: OvtsAigTwNSwsze1LDv8J3CaOEw=
+
+Name: lib/arm64-v8a/libcrashlytics-common.so
+SHA1-Digest: xU9JA4rcDgayOrNYXO2AWOzR/Po=
+
+Name: lib/arm64-v8a/libcrashlytics-handler.so
+SHA1-Digest: Ho6Rfre9QViW110FkNmtSIWS0jQ=
+
+Name: lib/arm64-v8a/libcrashlytics-trampoline.so
+SHA1-Digest: CvGEssSchhYidW7r6diAlnnvMYk=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: ipE49GWonUJynYXiydtaxI8fjCU=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: CV4WlQQMDBlkJLNYR0xKgZjKOsk=
+
+Name: lib/arm64-v8a/libfile_lock_pgl.so
+SHA1-Digest: +HurTfz9JtX8QM2j4O/xTcKCSMk=
+
+Name: lib/arm64-v8a/libgame.so
+SHA1-Digest: I3bNTHEyS6sJxOu02wEtAyI0JO8=
+
+Name: lib/arm64-v8a/libmcgoliath.so
+SHA1-Digest: PInFQrtmTcORKf3awzDhghWYmXw=
+
+Name: lib/arm64-v8a/libmcgoliathevents.so
+SHA1-Digest: BU+gfCaV0GG1D8x27zlrHbbpW2k=
+
+Name: lib/arm64-v8a/libmcprime.so
+SHA1-Digest: xo0iKcWmH4MJyiDd2xCPRap/on0=
+
+Name: lib/arm64-v8a/libnms.so
+SHA1-Digest: NGRyh04qYAHtsj8OwIdqbPhNv04=
+
+Name: lib/arm64-v8a/libpairipcore.so
+SHA1-Digest: U/GQBwDT/pSmX8ySOBhMH7PY9Hk=
+
+Name: lib/arm64-v8a/libpglarmor.so
+SHA1-Digest: oiu7Dh8jMzBRTU5nPQj91WlOI/U=
+
+Name: lib/arm64-v8a/libquack.so
+SHA1-Digest: qVBAGWjtGoyK2eN8kbtungLTmJE=
+
+Name: lib/arm64-v8a/libtobEmbedPagEncrypt.so
+SHA1-Digest: k9g/8mL48ntxmL5juJ5djMbVph8=
+
+Name: lib/arm64-v8a/libtt_ugen_layout.so
+SHA1-Digest: uobzNFwfpcD8rnJkT28mKCHOMAM=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

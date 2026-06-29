@@ -1,0 +1,50 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: reckless_getaway_2.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  info.json: '8'
+  icon.png: '8'
+  base.apk: '8'
+  split_config.hdpi.apk: '8'
+  split_config.armeabi_v7a.apk: '8'
+  split_config.xhdpi.apk: '8'
+  split_config.xxxhdpi.apk: '8'
+  split_config.xxhdpi.apk: '8'
+  split_config.ja.apk: '8'
+  split_config.de.apk: '8'
+  split_config.th.apk: '8'
+  split_config.fi.apk: '8'
+  split_config.hi.apk: '8'
+  split_config.vi.apk: '8'
+  split_config.uk.apk: '8'
+  split_config.nl.apk: '8'
+  split_config.pl.apk: '8'
+  split_config.in.apk: '8'
+  split_config.ko.apk: '8'
+  split_config.ar.apk: '8'
+  split_config.fr.apk: '8'
+  split_config.tr.apk: '8'
+  split_config.es.apk: '8'
+  split_config.ms.apk: '8'
+  split_config.et.apk: '8'
+  split_config.it.apk: '8'
+  split_config.pt.apk: '8'
+  split_config.hu.apk: '8'
+  split_config.ru.apk: '8'
+  split_config.sv.apk: '8'
+  split_config.en.apk: '8'
+  split_config.zh.apk: '8'
+  split_config.arm64_v8a.apk: '8'
+  split_config.mdpi.apk: '8'
+  split_config.tvdpi.apk: '8'
+  split_config.ldpi.apk: '8'
+  APKM_installer.url: '0'
+usesFramework: null
+version: 2.7.0-dirty
+versionInfo: null

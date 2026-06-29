@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ZENv/6KM4gd6Tk9boH5uMIJcnSU=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: QzzhKQQfGouPiKuSMoRQEP8WfwU=
+
+Name: lib/arm64-v8a/libapminsighta.so
+SHA1-Digest: S3Z4EJXdlDf12XTi6ccuoFBEe04=
+
+Name: lib/arm64-v8a/libapminsightb.so
+SHA1-Digest: 3pvFMIVLBEM4qT1Z10S3+X4KhBA=
+
+Name: lib/arm64-v8a/libapplovin-native-crash-reporter.so
+SHA1-Digest: xkbTy9b8BkTzxf1FG6SmXyPXgjI=
+
+Name: lib/arm64-v8a/libbuffer_pgl.so
+SHA1-Digest: N0LnpMzUgwEHZCBMWTg0CFegigI=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: 3NyhIAwtETptesWXZj4tdZz6Oog=
+
+Name: lib/arm64-v8a/libcrashlytics-common.so
+SHA1-Digest: iPvURsEVKvIqtHEF4/UQvj2/jnU=
+
+Name: lib/arm64-v8a/libcrashlytics-handler.so
+SHA1-Digest: SdV1+R/pqVcDEfnTIMTKrdmH76g=
+
+Name: lib/arm64-v8a/libcrashlytics-trampoline.so
+SHA1-Digest: S5oVFqUd+BwuzTFodiTx8WdU1Jw=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: oyyOC3mtSNsR0QG7M3n2Sn6/F78=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: 2QroeYLrBWw5bbYB9vLjZMnYZKg=
+
+Name: lib/arm64-v8a/libfile_lock_pgl.so
+SHA1-Digest: Aw+MrELoIlkzqICIxcO3g93z2qo=
+
+Name: lib/arm64-v8a/libgame.so
+SHA1-Digest: zouesur1O0yeMNS5R3us5AboV54=
+
+Name: lib/arm64-v8a/libmcgoliath.so
+SHA1-Digest: RvEMt1sPzIETA0Pz0L2CMQSwi6Y=
+
+Name: lib/arm64-v8a/libmcgoliathevents.so
+SHA1-Digest: c3CH90YW/8IForG1q6oi4pA0dxs=
+
+Name: lib/arm64-v8a/libmcprime.so
+SHA1-Digest: 75666fjMXJSdQ/2rpLvt1Jb7/Jk=
+
+Name: lib/arm64-v8a/libnms.so
+SHA1-Digest: CCpTgjut5ALVTwJS8ZJ6CRWQkdA=
+
+Name: lib/arm64-v8a/libpairipcore.so
+SHA1-Digest: U8czwbaci12XJnAu2qLxk2JoMD4=
+
+Name: lib/arm64-v8a/libpglarmor.so
+SHA1-Digest: Smrq149osXXMYe6JGQeBPBdRXpY=
+
+Name: lib/arm64-v8a/libquack.so
+SHA1-Digest: xYN5AfrJCAeW2j1LkVTWPX1K0Gk=
+
+Name: lib/arm64-v8a/libtobEmbedPagEncrypt.so
+SHA1-Digest: 4Pslxezk68zvrzdWYsfuGebHXA0=
+
+Name: lib/arm64-v8a/libtt_ugen_layout.so
+SHA1-Digest: QN3wYvSt7jNHQb0yBDiUGj213CY=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

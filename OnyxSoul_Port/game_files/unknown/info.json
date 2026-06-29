@@ -1,0 +1,57 @@
+{
+    "apkm_version": 5,
+    "apk_title": "Reckless Getaway 2: Car Chase 2.31.03 (arm64-v8a + arm-v7a) (120-640dpi) (Android 6.0+)",
+    "app_name": "Reckless Getaway 2: Car Chase",
+    "release_version": "2.31.03",
+    "variant": "(arm64-v8a + arm-v7a) (120-640dpi) (Android 6.0+)",
+    "release_title": "Reckless Getaway 2: Car Chase 2.31.03 (arm64-v8a + arm-v7a) (120-640dpi) (Android 6.0+)",
+    "versioncode": "23103",
+    "pname": "com.pixelbite.ga2",
+    "post_date": "2025-10-14 10:25:14",
+    "capabilities": [
+        "leanback"
+    ],
+    "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hi",
+        "hu",
+        "in",
+        "it",
+        "ja",
+        "ko",
+        "ms",
+        "nl",
+        "pl",
+        "pt",
+        "ru",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "vi",
+        "zh"
+    ],
+    "arches": [
+        "arm64-v8a",
+        "armeabi-v7a"
+    ],
+    "dpis": [
+        "120",
+        "160",
+        "213",
+        "240",
+        "320",
+        "480",
+        "640"
+    ],
+    "min_api": "23",
+    "accent_color": "7c745c",
+    "apk_id": 11077510,
+    "release_id": 11077518
+}
